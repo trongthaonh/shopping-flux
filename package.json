@@ -1,0 +1,31 @@
+{
+  "name": "shopping-flux",
+  "version": "1.0.0",
+  "description": "First app with React and Flux",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://trongthaonh@github.com/trongthaonh/shopping-flux.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Trong Thao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trongthaonh/shopping-flux/issues"
+  },
+  "homepage": "https://github.com/trongthaonh/shopping-flux#readme",
+  "dependencies": {
+    "flux": "^2.1.1",
+    "gulp": "^3.9.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-concat": "^2.6.0",
+    "lodash": "^3.10.1",
+    "react": "^0.14.3",
+    "reactify": "^1.1.1"
+  }
+}
